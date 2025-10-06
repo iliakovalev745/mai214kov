@@ -7,7 +7,7 @@
 bool isPointInCircle(const Point& p, const Circle& c);
 bool isPointInSquare(const Point& p, const Square& s);
 
-// Нахождение точки на контуре
+
 bool isPointOnCircle(const Point& p, const Circle& c);
 bool isPointOnSquare(const Point& p, const Square& s);
 
